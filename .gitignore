@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+.idea/
+!/data/.gitkeep
+!/data/data.gitkeep
+!/data/metadata.gitkeep
+/data/WDI*
+/data/data
+/data/metadata
